@@ -1,4 +1,4 @@
-INSERT INTO cats (name, age, breed) VALUES ()
+INSERT INTO cats (name, age
 
 Mr. Chocolate
 Rowdy
