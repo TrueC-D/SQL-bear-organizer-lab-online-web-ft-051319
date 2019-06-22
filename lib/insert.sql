@@ -1,5 +1,7 @@
 INSERT INTO cats (name, age
 
+
+
 Mr. Chocolate
 Rowdy
 Tabitha
