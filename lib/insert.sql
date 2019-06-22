@@ -1,8 +1,8 @@
-INSERT INTO cats (name, age, gender, color, temperment, alive)
+INSERT INTO bears (name, age, gender, color, temperment, alive) VALUES ("Mr. Chocolate")
 
 -- CREATE TABLE bears (id INTEGER PRIMARY KEY, name TEXT, age INT, gender TEXT, color TEXT, temperament TEXT, alive NUMERIC);
 
-Mr. Chocolate
+
 Rowdy
 Tabitha
 Sergeant Brown
